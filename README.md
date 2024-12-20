@@ -1,6 +1,7 @@
---> This Spring Boot application processes receipts and calculates points based on predefined rules
+--> This Spring Boot application processes receipts and calculates points based on predefined rules.
+
 Post Method :/receipts/process
-Get Methos :/receipts/{generated id}/points
+Get Method :/receipts/{generated id}/points
 
 To Run the project :  
 - Java JDK 17 or higher
